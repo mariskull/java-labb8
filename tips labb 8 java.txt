@@ -1,0 +1,1 @@
+kör koden i vanliga terminalen, inte powershell
